@@ -1,0 +1,15 @@
+html {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+body {
+    display: flex;
+    margin: auto;
+    text-align: center;
+    flex-direction: column;
+    width:50%
+}
+b {
+    font-size: 3.2vw;
+}
